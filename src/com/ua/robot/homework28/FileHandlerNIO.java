@@ -6,7 +6,7 @@ import java.nio.file.Files;
 import java.nio.file.Path;
 import java.nio.file.Paths;
 
-public class FileHandler {
+public class FileHandlerNIO {
 
     public void saveToFile(String text, String filename) {
         try {
